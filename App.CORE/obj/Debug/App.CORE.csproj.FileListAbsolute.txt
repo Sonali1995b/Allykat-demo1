@@ -1,0 +1,214 @@
+D:\BLOCKCHAIN_BASICS\App.CORE\bin\Debug\App.CORE.dll
+D:\BLOCKCHAIN_BASICS\App.CORE\bin\Debug\App.CORE.pdb
+D:\BLOCKCHAIN_BASICS\App.CORE\obj\Debug\App.CORE.dll
+D:\BLOCKCHAIN_BASICS\App.CORE\obj\Debug\App.CORE.pdb
+D:\BLOCKCHAIN_BASICS\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+F:\Pritam\BLOCKCHAIN_BASICS\App.CORE\bin\Debug\App.CORE.dll
+F:\Pritam\BLOCKCHAIN_BASICS\App.CORE\bin\Debug\App.CORE.pdb
+F:\Pritam\BLOCKCHAIN_BASICS\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+F:\Pritam\BLOCKCHAIN_BASICS\App.CORE\obj\Debug\App.CORE.dll
+F:\Pritam\BLOCKCHAIN_BASICS\App.CORE\obj\Debug\App.CORE.pdb
+D:\ASP Projects\Blockchain-Basics\BLOCKCHAIN_BASICS\App.CORE\bin\Debug\App.CORE.dll
+D:\ASP Projects\Blockchain-Basics\BLOCKCHAIN_BASICS\App.CORE\bin\Debug\App.CORE.pdb
+D:\ASP Projects\Blockchain-Basics\BLOCKCHAIN_BASICS\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+D:\ASP Projects\Blockchain-Basics\BLOCKCHAIN_BASICS\App.CORE\obj\Debug\App.CORE.dll
+D:\ASP Projects\Blockchain-Basics\BLOCKCHAIN_BASICS\App.CORE\obj\Debug\App.CORE.pdb
+D:\EscortCMS\App.CORE\bin\Debug\App.CORE.dll
+D:\EscortCMS\App.CORE\bin\Debug\App.CORE.pdb
+D:\EscortCMS\App.CORE\obj\Debug\App.CORE.dll
+D:\EscortCMS\App.CORE\obj\Debug\App.CORE.pdb
+D:\#PANU\EscortCMS\App.CORE\bin\Debug\App.CORE.dll
+D:\#PANU\EscortCMS\App.CORE\bin\Debug\App.CORE.pdb
+D:\#PANU\EscortCMS\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+D:\#PANU\EscortCMS\App.CORE\obj\Debug\App.CORE.dll
+D:\#PANU\EscortCMS\App.CORE\obj\Debug\App.CORE.pdb
+D:\#PANU\New folder\EscortCMS\App.CORE\bin\Debug\App.CORE.dll
+D:\#PANU\New folder\EscortCMS\App.CORE\bin\Debug\App.CORE.pdb
+D:\#PANU\New folder\EscortCMS\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+D:\#PANU\New folder\EscortCMS\App.CORE\obj\Debug\App.CORE.dll
+D:\#PANU\New folder\EscortCMS\App.CORE\obj\Debug\App.CORE.pdb
+D:\Joy Mitra\EscortCMS\App.CORE\bin\Debug\App.CORE.dll
+D:\Joy Mitra\EscortCMS\App.CORE\bin\Debug\App.CORE.pdb
+D:\Joy Mitra\EscortCMS\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+D:\Joy Mitra\EscortCMS\App.CORE\obj\Debug\App.CORE.dll
+D:\Joy Mitra\EscortCMS\App.CORE\obj\Debug\App.CORE.pdb
+D:\ASP Projects\EscortCMS\EscortCMS\App.CORE\bin\Debug\App.CORE.dll
+D:\ASP Projects\EscortCMS\EscortCMS\App.CORE\bin\Debug\App.CORE.pdb
+D:\ASP Projects\EscortCMS\EscortCMS\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+D:\ASP Projects\EscortCMS\EscortCMS\App.CORE\obj\Debug\App.CORE.dll
+D:\ASP Projects\EscortCMS\EscortCMS\App.CORE\obj\Debug\App.CORE.pdb
+D:\Joy Mitra\BlockchainSoftware\App.CORE\bin\Debug\App.CORE.dll
+D:\Joy Mitra\BlockchainSoftware\App.CORE\bin\Debug\App.CORE.pdb
+D:\Joy Mitra\BlockchainSoftware\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+D:\Joy Mitra\BlockchainSoftware\App.CORE\obj\Debug\App.CORE.dll
+D:\Joy Mitra\BlockchainSoftware\App.CORE\obj\Debug\App.CORE.pdb
+D:\Joy Mitra\#Blockchain Softare\BlockchainSoftware\App.CORE\bin\Debug\App.CORE.dll
+D:\Joy Mitra\#Blockchain Softare\BlockchainSoftware\App.CORE\bin\Debug\App.CORE.pdb
+D:\Joy Mitra\#Blockchain Softare\BlockchainSoftware\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+D:\Joy Mitra\#Blockchain Softare\BlockchainSoftware\App.CORE\obj\Debug\App.CORE.dll
+D:\Joy Mitra\#Blockchain Softare\BlockchainSoftware\App.CORE\obj\Debug\App.CORE.pdb
+D:\OfficeProject\DecentralisedSupplyDevs\Supplychain_cms\App.CORE\bin\Debug\App.CORE.dll
+D:\OfficeProject\DecentralisedSupplyDevs\Supplychain_cms\App.CORE\bin\Debug\App.CORE.pdb
+D:\OfficeProject\DecentralisedSupplyDevs\Supplychain_cms\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
+D:\OfficeProject\DecentralisedSupplyDevs\Supplychain_cms\App.CORE\obj\Debug\App.CORE.dll
+D:\OfficeProject\DecentralisedSupplyDevs\Supplychain_cms\App.CORE\obj\Debug\App.CORE.pdb
+D:\OfficeProject\DecentralisedSupplyDevs\Supplychain_cms\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+D:\Saptaswa\Projects\#Supply Chain\Supplychain_cms\App.CORE\bin\Debug\App.CORE.dll
+D:\Saptaswa\Projects\#Supply Chain\Supplychain_cms\App.CORE\bin\Debug\App.CORE.pdb
+D:\Saptaswa\Projects\#Supply Chain\Supplychain_cms\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+D:\Saptaswa\Projects\#Supply Chain\Supplychain_cms\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
+D:\Saptaswa\Projects\#Supply Chain\Supplychain_cms\App.CORE\obj\Debug\App.CORE.dll
+D:\Saptaswa\Projects\#Supply Chain\Supplychain_cms\App.CORE\obj\Debug\App.CORE.pdb
+E:\Office Project\#supply chain\Supplychain_cms\App.CORE\bin\Debug\App.CORE.dll
+E:\Office Project\#supply chain\Supplychain_cms\App.CORE\bin\Debug\App.CORE.pdb
+E:\Office Project\#supply chain\Supplychain_cms\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+E:\Office Project\#supply chain\Supplychain_cms\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
+E:\Office Project\#supply chain\Supplychain_cms\App.CORE\obj\Debug\App.CORE.dll
+E:\Office Project\#supply chain\Supplychain_cms\App.CORE\obj\Debug\App.CORE.pdb
+D:\Saptaswa\Projects\#Project Six\ProjectSix\App.CORE\bin\Debug\App.CORE.dll
+D:\Saptaswa\Projects\#Project Six\ProjectSix\App.CORE\bin\Debug\App.CORE.pdb
+D:\Saptaswa\Projects\#Project Six\ProjectSix\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
+D:\Saptaswa\Projects\#Project Six\ProjectSix\App.CORE\obj\Debug\App.CORE.dll
+D:\Saptaswa\Projects\#Project Six\ProjectSix\App.CORE\obj\Debug\App.CORE.pdb
+F:\ProjectSix_07_09_2020\ProjectSix\App.CORE\bin\Debug\App.CORE.dll
+F:\ProjectSix_07_09_2020\ProjectSix\App.CORE\bin\Debug\App.CORE.pdb
+F:\ProjectSix_07_09_2020\ProjectSix\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+F:\ProjectSix_07_09_2020\ProjectSix\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
+F:\ProjectSix_07_09_2020\ProjectSix\App.CORE\obj\Debug\App.CORE.dll
+F:\ProjectSix_07_09_2020\ProjectSix\App.CORE\obj\Debug\App.CORE.pdb
+D:\ExcortProject\ProjectSix\App.CORE\bin\Debug\App.CORE.dll
+D:\ExcortProject\ProjectSix\App.CORE\bin\Debug\App.CORE.pdb
+D:\ExcortProject\ProjectSix\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+D:\ExcortProject\ProjectSix\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
+D:\ExcortProject\ProjectSix\App.CORE\obj\Debug\App.CORE.dll
+D:\ExcortProject\ProjectSix\App.CORE\obj\Debug\App.CORE.pdb
+E:\Office Project\#project_All\Subitted part jr. dev\ProjectSix_12_09_2020\ProjectSix\App.CORE\bin\Debug\App.CORE.dll
+E:\Office Project\#project_All\Subitted part jr. dev\ProjectSix_12_09_2020\ProjectSix\App.CORE\bin\Debug\App.CORE.pdb
+E:\Office Project\#project_All\Subitted part jr. dev\ProjectSix_12_09_2020\ProjectSix\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+E:\Office Project\#project_All\Subitted part jr. dev\ProjectSix_12_09_2020\ProjectSix\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
+E:\Office Project\#project_All\Subitted part jr. dev\ProjectSix_12_09_2020\ProjectSix\App.CORE\obj\Debug\App.CORE.dll
+E:\Office Project\#project_All\Subitted part jr. dev\ProjectSix_12_09_2020\ProjectSix\App.CORE\obj\Debug\App.CORE.pdb
+F:\Your Flow\DEMO6_12_09_20\ProjectSix_12_09_2020\ProjectSix\App.CORE\bin\Debug\App.CORE.dll
+F:\Your Flow\DEMO6_12_09_20\ProjectSix_12_09_2020\ProjectSix\App.CORE\bin\Debug\App.CORE.pdb
+F:\Your Flow\DEMO6_12_09_20\ProjectSix_12_09_2020\ProjectSix\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+F:\Your Flow\DEMO6_12_09_20\ProjectSix_12_09_2020\ProjectSix\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
+F:\Your Flow\DEMO6_12_09_20\ProjectSix_12_09_2020\ProjectSix\App.CORE\obj\Debug\App.CORE.dll
+F:\Your Flow\DEMO6_12_09_20\ProjectSix_12_09_2020\ProjectSix\App.CORE\obj\Debug\App.CORE.pdb
+E:\yourflow\ProjectSix\DEMO6_24_09_20\ProjectSix\App.CORE\bin\Debug\App.CORE.dll
+E:\yourflow\ProjectSix\DEMO6_24_09_20\ProjectSix\App.CORE\bin\Debug\App.CORE.pdb
+E:\yourflow\ProjectSix\DEMO6_24_09_20\ProjectSix\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+E:\yourflow\ProjectSix\DEMO6_24_09_20\ProjectSix\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
+E:\yourflow\ProjectSix\DEMO6_24_09_20\ProjectSix\App.CORE\obj\Debug\App.CORE.dll
+E:\yourflow\ProjectSix\DEMO6_24_09_20\ProjectSix\App.CORE\obj\Debug\App.CORE.pdb
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.CORE\bin\Debug\App.CORE.dll
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.CORE\bin\Debug\App.CORE.pdb
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.CORE\obj\Debug\App.CORE.dll
+E:\Office Project\#project_All\#FINAL_COPY\ProjectSix\App.CORE\obj\Debug\App.CORE.pdb
+E:\yourflow\ProjectSix\ProjectSix\App.CORE\bin\Debug\App.CORE.dll
+E:\yourflow\ProjectSix\ProjectSix\App.CORE\bin\Debug\App.CORE.pdb
+E:\yourflow\ProjectSix\ProjectSix\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+E:\yourflow\ProjectSix\ProjectSix\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
+E:\yourflow\ProjectSix\ProjectSix\App.CORE\obj\Debug\App.CORE.dll
+E:\yourflow\ProjectSix\ProjectSix\App.CORE\obj\Debug\App.CORE.pdb
+D:\EXCORT_PROJECT_1\ProjectOne\App.CORE\bin\Debug\App.CORE.dll
+D:\EXCORT_PROJECT_1\ProjectOne\App.CORE\bin\Debug\App.CORE.pdb
+D:\EXCORT_PROJECT_1\ProjectOne\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+D:\EXCORT_PROJECT_1\ProjectOne\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
+D:\EXCORT_PROJECT_1\ProjectOne\App.CORE\obj\Debug\App.CORE.dll
+D:\EXCORT_PROJECT_1\ProjectOne\App.CORE\obj\Debug\App.CORE.pdb
+F:\Your Flow\DEMO1_30_10_20\ProjectOne\App.CORE\bin\Debug\App.CORE.dll
+F:\Your Flow\DEMO1_30_10_20\ProjectOne\App.CORE\bin\Debug\App.CORE.pdb
+F:\Your Flow\DEMO1_30_10_20\ProjectOne\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+F:\Your Flow\DEMO1_30_10_20\ProjectOne\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
+F:\Your Flow\DEMO1_30_10_20\ProjectOne\App.CORE\obj\Debug\App.CORE.dll
+F:\Your Flow\DEMO1_30_10_20\ProjectOne\App.CORE\obj\Debug\App.CORE.pdb
+F:\Your Flow\Demos_24_11_20\DEMO1_21_11_2020\DEMO1_03_11_2020\App.CORE\bin\Debug\App.CORE.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_21_11_2020\DEMO1_03_11_2020\App.CORE\bin\Debug\App.CORE.pdb
+F:\Your Flow\Demos_24_11_20\DEMO1_21_11_2020\DEMO1_03_11_2020\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+F:\Your Flow\Demos_24_11_20\DEMO1_21_11_2020\DEMO1_03_11_2020\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
+F:\Your Flow\Demos_24_11_20\DEMO1_21_11_2020\DEMO1_03_11_2020\App.CORE\obj\Debug\App.CORE.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_21_11_2020\DEMO1_03_11_2020\App.CORE\obj\Debug\App.CORE.pdb
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\App.CORE.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\App.CORE.pdb
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\csc.exe
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\csc.exe.config
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\csc.rsp
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\csi.exe
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\csi.exe.config
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\csi.rsp
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\System.Buffers.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\System.Collections.Immutable.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\System.Memory.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\System.Numerics.Vectors.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\System.Reflection.Metadata.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\vbc.exe
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\vbc.exe.config
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\vbc.rsp
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\VBCSCompiler.exe
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\VBCSCompiler.exe.config
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\Newtonsoft.Json.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\Newtonsoft.Json.xml
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\obj\Debug\App.CORE.csproj.CopyComplete
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\obj\Debug\App.CORE.dll
+F:\Your Flow\Demos_24_11_20\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\obj\Debug\App.CORE.pdb
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\App.CORE.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\App.CORE.pdb
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\csc.exe
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\csc.exe.config
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\csc.rsp
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\csi.exe
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\csi.exe.config
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\csi.rsp
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.Managed.Core.targets
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\System.Buffers.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\System.Collections.Immutable.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\System.Memory.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\System.Numerics.Vectors.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\System.Reflection.Metadata.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\System.Text.Encoding.CodePages.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\vbc.exe
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\vbc.exe.config
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\vbc.rsp
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\VBCSCompiler.exe
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\roslyn\VBCSCompiler.exe.config
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\Newtonsoft.Json.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\bin\Debug\Newtonsoft.Json.xml
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\obj\Debug\App.CORE.csprojAssemblyReference.cache
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\obj\Debug\App.CORE.csproj.CoreCompileInputs.cache
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\obj\Debug\App.CORE.csproj.CopyComplete
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\obj\Debug\App.CORE.dll
+F:\Your Flow\#Demos_06_04_21\DEMO1_10_3_2021\DEMO1_03_11_2020\App.CORE\obj\Debug\App.CORE.pdb
