@@ -18,6 +18,7 @@
             overflow: hidden;
             min-height:65px;
         }
+        /*Test*/
         .item-content.entry-content p{
             display: -webkit-box;
             -webkit-line-clamp: 2;
